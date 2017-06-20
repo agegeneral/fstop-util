@@ -3,7 +3,7 @@
   <groupId>fstop</groupId>
   <artifactId>fstop-util</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   
   <name>fstop-util</name>
   <url>https://github.com/andy-udp-ip/fstop-util</url>
@@ -54,7 +54,7 @@
 	<connection>scm:git:git@github.com:andy-udp-ip/fstop-util.git</connection>
 	<url>scm:git:git@github.com:andy-udp-ip/fstop-util.git</url>
 	<developerConnection>scm:git:git@github.com:andy-udp-ip/fstop-util.git</developerConnection>
-    <tag>v1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>    
 
   
